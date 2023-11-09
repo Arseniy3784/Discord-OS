@@ -1,5 +1,4 @@
-﻿/* Серверный бар вверху, как в Linux (по умолчанию: выкл) */
-/* :root {
+ :root {
   --server-size: var(--HSL-server-icon-size, var(--HSL-size, 35px));
   --server-spacing: var(--HSL-server-spacing, var(--HSL-spacing, 10px));
   --server-container: calc(var(--server-size) + 20px);
