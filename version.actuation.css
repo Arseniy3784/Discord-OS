@@ -12,17 +12,3 @@
 .content__4bf10 .applicationStore_fc7d76 {
   position: relative;
 }
-.content__4bf10 .applicationStore_fc7d76 .children__32014 {
-  visibility: hidden;
-}
-
-.content__4bf10 .applicationStore_fc7d76 .scroller__244e5 {
-  background: var(--background-primary);
-}
-
-.content__4bf10 .applicationStore_fc7d76 .scroller__244e5 .container__74da1 {
-  display: none;
-}
-.content__4bf10 .applicationStore_fc7d76 .scroller__244e5 .premiumContainer__2ebd0 {
-  margin-top: 24px;
-}
