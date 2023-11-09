@@ -1,0 +1,50 @@
+﻿#app-mount .guilds__2b93a .tree__7a511 {
+  outline: none !important;
+}
+#app-mount .guilds__2b93a .unreadMentionsIndicatorBottom_fdb943 {
+  bottom: calc(var(--user-area) + 10px);
+}
+#app-mount .panels__58331 > .container_ca50b9 {
+  background: rgba(0, 0, 0, 0);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  flex-direction: column-reverse;
+  padding: 0 0 17px;
+  width: var(--guilds-width, 360px);
+  height: 0px;
+  border-top: none;
+}
+#app-mount .panels__58331 > .container_ca50b9 > [style="flex: 1 1 auto;"] {
+  flex-direction: column;
+  width: 100%;
+}
+#app-mount .panels__58331 > .container_ca50b9 > [style="flex: 1 1 auto;"] .button__4f306 {
+  width: 100%;
+  border-radius: 0;
+  padding: 12px 0;
+  height: auto;
+}
+#app-mount .panels__58331 > .container_ca50b9 .avatarWrapper_ba5175 {
+  margin-right: 0;
+  margin-top: -25px;
+}
+#app-mount .panels__58331 > .container_ca50b9 .avatarWrapper_ba5175 .svg_f5b652 {
+  width: 40px;
+  height: 40px;
+  transform: translate(5px, -11px);
+}
+#app-mount .panels__58331 > .container_ca50b9 .avatar_f8541f {
+  width: 200px !important;
+  height: 25px !important;
+}
+#app-mount .nameTag__0e320 {
+  display: none;
+}
+#app-mount .avatarWrapper_ba5175 {
+  margin: 0;
+  min-width: unset;
+}
+#app-mount .avatarWrapper_ba5175:hover {
+  background: rgba(0, 0, 0, .02);
+}

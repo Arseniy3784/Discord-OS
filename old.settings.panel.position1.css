@@ -1,0 +1,222 @@
+﻿.panels__58331 {
+    background-color: #181818;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    height: 90px;
+    border-radius: 0px;
+    border-top: 1px solid #282828;
+    z-index: 99;
+    overflow: hidden scroll;
+}
+
+.panels__58331::-webkit-scrollbar {
+    width: 16px;
+    height: 16px;
+}
+
+.panels__58331::-webkit-scrollbar-corner {
+    background-color: tranparent;
+}
+
+.panels__58331::-webkit-scrollbar-thumb,
+.panels__58331::-webkit-scrollbar-track {
+    border: 4px solid transparent;
+    background-clip: padding-box;
+    border-radius: 8px;
+}
+
+.panels__58331 > .container_ca50b9 {
+    z-index: 99;
+    position: absolute;
+    top: 5px;
+    height: 35px;
+    width: 225px;
+    right: 5px;
+    border-radius: 500px;
+    background-color: rgba(0, 0, 0, .01);
+    padding: 2px;
+    color: #fff !important;
+}
+
+.panels__58331 > .container_ca50b9 > .nameTag__0e320 > .size12-oc4dx4 > .hoverRoll__041cb {
+    display: none;
+}
+
+.panels__58331 > .container_ca50b9 > .nameTag__0e320 > .subtext__8f869 {
+    display: none;
+}
+
+.panels__58331:before {
+    content: "No Song Playing...";
+    font-size: 14px;
+    text-align: center;
+    color: #fff;
+    padding: 0px 59px;
+    position: relative;
+    top: 45%;
+    z-index: -1;
+}
+
+.panels__58331 > .wrapper__0ed4a > .container_d667ff {
+    margin-top: -14px;
+    background-color: #18181805;
+}
+
+.activityPanel__22355 {
+    position: fixed;
+    bottom: 90px;
+    background-color: #181818f7;
+    width: 225px;
+}
+
+.button__8d734[disabled] > .innerButton_debeee > .buttonChild__7b90d,
+.buttonChild__7b90d {
+    color: var(--interactive-normal);
+}
+
+.theme-dark .button__8d734:focus-within .activeButtonChild__6e162,
+.theme-dark .button__8d734:focus .activeButtonChild__6e162,
+.theme-dark .button__8d734:hover .activeButtonChild__6e162 {
+    color: var(--background-accent);
+}
+
+.base__512ed {
+    bottom: 2px;
+}
+
+.form__13a2c {
+    background-color: #18181805;
+    min-height: 90px;
+    border-top: 1px solid #28282803;
+    margin: 0;
+}
+
+.scrollableContainer__33e06 {
+    border-radius: 23px;
+}
+
+.textAreaSlate_e0e383 {
+    height: 44px !important;
+}
+
+.channelTextArea__2e60f {
+    top: 20px;
+    background-color: var(--channeltextarea-background);
+    border-radius: 500px !important;
+}
+
+.wrapper_fbbb73 {
+    margin-top: 14px;
+}
+
+.attachedBars_da3c74 {
+    margin-top: -45px;
+    margin-bottom: 25px;
+    height: 20px;
+}
+
+.attachButtonInner__3ce2b path {
+    fill: var(--background-accent);
+}
+
+.attachButton_b1db83:hover .attachButtonPlus_bf89ca {
+    fill: #32323200;
+}
+
+.button_f0455c:hover,
+.active_a5045e .buttonWrapper__69593,
+.buttonWrapper__69593:hover {
+    color: #32323205;
+}
+
+.button__4f306.enabled__470f0:hover {
+    border-radius: 32px;
+}
+
+.replyBar_b64d74,
+.threadSuggestionBar_b633f7,
+.attachedBars_da3c74 {
+    background: var(--channeltextarea-background);
+}
+
+.replyBar_b64d74 {
+    margin-top: 0;
+}
+
+.actions__399af {
+    height: 40px;
+}
+
+.theme-dark .autocomplete_df266d {
+    background-color: var(--background-secondary);
+}
+
+.theme-dark .form__13a2c:before {
+    background: linear-gradient(180deg, rgba(54, 57, 63, 0) 0, #18181808);
+}
+
+.inlineCode_d702a4,
+.optionPill_f86b98 {
+    color: #fff;
+}
+
+.toolbar__88c63 {
+    margin-right: 240px;
+}
+
+.title_b7d661 {
+    z-index: 1;
+}
+
+.theme-dark .container_d6dad3 {
+    background-color: var(--background-floating);
+}
+
+.option_b5597b {
+    width: 311.5px;
+}
+
+.option_b5597b:hover {
+    width: 280px;
+}
+
+.toolbar__88c63 .search__07df0 {
+    order: -1;
+}
+
+.toolbar__88c63 .search__07df0 .iconContainer__8fa9c {
+    bottom: 4px;
+}
+
+.toolbar__88c63 .search__07df0 .iconContainer__8fa9c .icon_f50f05 {
+    transition: all 0.6s ease;
+}
+
+.toolbar__88c63 .search__07df0 .search_ac353c:not(.open_d3ab4e) .searchBar_e0c60b {
+    width: 28px;
+    transition: all 0.6s ease-in-out;
+    background: none;
+}
+
+.toolbar__88c63 .search__07df0 .search_ac353c:not(.open_d3ab4e) .searchBar_e0c60b .icon_f50f05 {
+    color: var(--interactive-normal);
+    height: 23px;
+    width: 23px;
+    margin-top: 1.76px;
+}
+
+.toolbar__88c63 .search__07df0 .search_ac353c.open_d3ab4e .searchBar_e0c60b {
+    width: 240px;
+    background: var(--background-tertiary);
+    transition: all 0.6s ease-in-out;
+}
+
+.toolbar__88c63 .search__07df0 .search_ac353c.open_d3ab4e .searchBar_e0c60b .icon_f50f05 {
+    height: 16px;
+    width: 16px;
+    top: 4px;
+}
+
+.iconLayout__9fbb1 {
+    cursor: pointer;
+}

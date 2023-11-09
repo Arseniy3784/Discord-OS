@@ -1,0 +1,16 @@
+﻿    @import url(https://zuzumi-f.github.io/Discord-11/base.css);
+
+    /* Windows 11 emojis */
+    if win11Emojis {
+        @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Microsoft.css);
+    }
+
+    /* Windows 11 font */
+    if win11Font {
+        @import url(https://zuzumi-f.github.io/Discord-11/release/font/windows11font.css);
+    }
+
+    /* Glass effect () */
+    if glassEffect {
+        @import url(https://zuzumi-f.github.io/Discord-11/release/glasseffect.css);
+    }
