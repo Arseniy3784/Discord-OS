@@ -1,0 +1,15 @@
+﻿
+.contentColumn_dc7d36:after {
+  content: "Установлена тема Discord OS файлом CSS версии 2.0. Подробную информацию об этой теме, вы можете прочесть в файле темы. Статус актуальности этой версии: установлена самая новая версия Discord OS. Обновлений не найдено.";
+  color: var(--text-normal);
+  font-size: 14px;
+  position: absolute;
+  white-space: pre-wrap;
+  top: 14px;
+  left: 14px;
+  z-index: 100;
+  pointer-events: none;
+}
+.content__4bf10 .applicationStore_fc7d76 {
+  position: relative;
+}
