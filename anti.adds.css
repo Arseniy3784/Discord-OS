@@ -176,7 +176,7 @@
 }
 .content__4bf10 .shop_b31ed2 .shopScroll__2feb5 .pageWrapper__582b9:before {
   content: "";
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1165684766322995260/ezgif-2-0b63215e85.gif?ex=65b67d89&is=65a40889&hm=ed3158224de7d5048af6d2fba0531f1b1875dd89681bb72340cf2a2c9629e9d8&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1199397285470150696/ezgif.com-video-to-gif-converter.gif?ex=65e74ec4&is=65d4d9c4&hm=7bbf0129c218eb4ac26b8b5c10e2b58b7b34fc335808c69c42a3748dc59b1785&");
   background-size: cover;
   width: 1400px;
   height: 850px;
@@ -307,7 +307,7 @@
 .content__4bf10 .applicationStore_fc7d76:after{
   content: "Gacha Club";
   color: var(--text-normal);
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198233037142499390/image-removebg-preview_50.png?ex=65ec4cfa&is=65d9d7fa&hm=f8417cb797de2b12ba8063e04ef78b2fe458db443663974e6fd8838f2f06c763&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198231642616103064/5410a1abab2accde.png?ex=65ec4bad&is=65d9d6ad&hm=7bd7b3642160f41e23b401ce15186bd1c9bbfd6e4bd4f928281fc4bf659f46e2&");
   background-size: cover;
   white-space: pre-wrap;
   text-align: center;
@@ -319,10 +319,10 @@
   border-radius: 3px;
   transform: rotate(0deg) translateX(1140px);
 }
-.content__4bf10 .applicationStore_fc7d76:before{
+.content__4bf10 .applicationStore_fc7d76>:after{
   content: "Gacha Life";
   color: var(--text-normal);
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198231642616103064/5410a1abab2accde.png?ex=65ec4bad&is=65d9d6ad&hm=7bd7b3642160f41e23b401ce15186bd1c9bbfd6e4bd4f928281fc4bf659f46e2&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198233037142499390/image-removebg-preview_50.png?ex=65ec4cfa&is=65d9d7fa&hm=f8417cb797de2b12ba8063e04ef78b2fe458db443663974e6fd8838f2f06c763&");
   background-size: cover;
   white-space: pre-wrap;
   text-align: center;
