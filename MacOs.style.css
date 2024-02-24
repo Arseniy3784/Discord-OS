@@ -1900,10 +1900,6 @@ html[style^="font-size: 93.75%;"] { --chat-font-scaling: 0.9375; }
   --dplus-background-color-lightness-amount: 1;
   --dplus-background-color-alpha: 0.8;
 }
-
-/* If you use light theme, you can give it unique settings that are separate from dark theme. */
-.theme-light {
-  --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
   
   --dplus-accent-color-hue: 320;
   --dplus-accent-color-saturation: 60%;
