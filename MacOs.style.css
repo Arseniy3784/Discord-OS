@@ -1,3 +1,9 @@
+/* 
+██████████████████████████████████████████████████████████████████████████████████
+█▄─▄▄▀█▄─▄█─▄▄▄▄█─▄▄▄─█─▄▄─█▄─▄▄▀█▄─▄▄▀███░███─▄▄▄▄█─▄▄─█▄─██─▄█▄─▄▄▀█─▄▄▄─█▄─▄▄─█
+██─██─██─██▄▄▄▄─█─███▀█─██─██─▄─▄██─██─█▄▄░▄▄█▄▄▄▄─█─██─██─██─███─▄─▄█─███▀██─▄█▀█
+█▄▄▄▄██▄▄▄█▄▄▄▄▄█▄▄▄▄▄█▄▄▄▄█▄▄█▄▄█▄▄▄▄████▄███▄▄▄▄▄█▄▄▄▄██▄▄▄▄██▄▄█▄▄█▄▄▄▄▄█▄▄▄▄▄█
+▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
 	Table of Contents
 1 Imports
 2 Default Values
@@ -2014,20 +2020,6 @@ Set avatar/server radius to 50% to make them circular.
 --dplus-icon-server-list: 32px;
 
 /* The Home icon on the top left */
---dplus-icon-home-dark: url(https://cdn.discordapp.com/attachments/974242241700831242/1210887958115385344/image.png?ex=65ec324a&is=65d9bd4a&hm=da4bfdfeb0eb714f9cf6087ae28f8d9db85a73d1e7b888f97bc545c7f52f3869&);
+--dplus-icon-home-dark: url(https://plusinsta.github.io/discord-plus/assets/discord/home_dark.svg);
 --dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
-    
-
-    
-
-    
-.scroller__3d071>[aria-label]{grid-area:Servers;overflow:scroll}
-.scroller__3d071>[aria-label]:not([class])::-webkit-scrollbar{display:none; .content__4bf10 .applicationStore_fc7d76 .scroller__244e5 .container__74da1 {
-  display: none
-}
-
-    
-.scroller__3d071 .none__51a8f .scrollerBase_dc3aa9{
-     left: 2110px
-     
 }
