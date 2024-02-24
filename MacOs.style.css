@@ -493,77 +493,7 @@ body { background-color: var(--dplus-accent-ui); }
 	bottom:	calc(var(--dplus-spacing-app) * 1.5) !important;
 }
 		
-		/*--- 4 Fonts ---*/
-
-		/*-- 4.1 Display Font --*/
-:root {
-	--dplus-font-ui: 'Poppins';
-	--dplus-font-ui-ja: 'Kosugi';
-	--dplus-font-ui-ko: 'Gothic A1';
-	--dplus-font-ui-ru: 'PT Sans Caption';
-	--dplus-font-ui-vi: 'Raleway';
-	--dplus-font-ui-el: 'Commissioner';
-	--dplus-font-body: 'Roboto';
-	--dplus-font-header: 'Righteous';
-	--dplus-font-header-ja: 'RocknRoll One';
-	--dplus-font-header-ko: 'Black Han Sans';
-	--dplus-font-header-ru: 'Russo One';
-	--dplus-font-header-hi: 'Palanquin Dark';
-	--dplus-font-header-th: 'Mitr';
-	--dplus-font-header-el: 'Alegreya Sans';
-
-	--font-display: var(--dplus-font-ui), 'Poppins', var(--dplus-font-ui-ru), 'Comfortaa', var(--dplus-font-ui-vi), 'Raleway', var(--dplus-font-ui-ja), 'Kosugi',  var(--dplus-font-ui-ko), 'Gothic A1', var(--dplus-font-ui-el), 'Commissioner', '-apple-system', 'Helvetica Neue', 'system-ui', 'Tahoma', 'Segoe UI', 'Helvetica', 'Whitney', sans-serif !important;
-	--font-primary: var(--font-display);
-	--font-japanese: var(--font-display);
-	--font-korean: var(--font-display);
-	--font-chinese-simplified: var(--font-display);
-	--font-chinese-traditional: var(--font-display);
-}
-body, button, select {
-	font-family: var(--font-display);
-}
 		
-		/*-- 4.2 Text Font --*/
-::placeholder, ::-webkit-input-placeholder, p, bodyarea, input, select, textarea,
-.message__80c10, .markup_a7e664, /*chat messages*/
-.subText_ab7e13, /*member list body*/
-.customStatusText-_4TbWr, /*user's custom status*/
-.modeDefault-2fEh7a, /*settings small body*/
-.emojiInput-1aLNse, .emojiAliasPlaceholder-3H_iZA, /*server settings: emoji name*/
-.topic__16ae3, /*channel topic in chat header*/
-.content_de196f, /*channel topic popup body*/
-.bd-description /*BD: plugin/theme desc*/ {
-	font-family: var(--dplus-font-body), 'Roboto', '-apple-system', 'Helvetica Neue', 'system-ui', 'Arial', 'Helvetica', 'Whitney', sans-serif !important;
-}
-		/*-- 4.3 Names, Titles, and Headers Font --*/
-header, h1,
-.nameAndDecorators_e34d47, /*name in member list*/
-.headerNameWrapper-3res2c, /*nickname in profile popup*/
-.username_d30d99, /*username in chat*/
-.headerText-15Q25Z, /*username#tag in profile popup*/
-.nickname-2gQ76l, /*nickname in profile popup*/
-.nameTag__0e320, /*your username in the bottom-left*/
-.detailsInner__06b77, /*settings: your username in My Account*/
-.activityName__47e51, /*user's activity name, includes song and author titles*/
-.emojiUploader-1f0pVx, /*server settings: emoji's uploader*/
-.userHook-3AdCBF, /*server settings: username in audit log*/
-.secondaryHeader-2oeRPO, /*server settings: integrations row headers such as bot names*/
-.roleName_d19d33, /*role name in profile*/
-.roleName-35qCvR, .roleName-3910zV, /*role name in server settings*/
-.membersGroup__85843, /*role name in member list*/
-.roleRow-3HnunM, /*role name in context menu*/
-.roleMention__02469, /*role name mention in chat*/
-.wrapper__2d9b1, /*username or channel name mention in chat*/
-[data-slate-object="inline"] .mention, /*mention in message box*/
-.systemMessage__6e6a4 .anchorUnderlineOnHover-2qPutX, /* links / usernames in system messages */
-.name__590d6, /*category name in sidebar*/
-.name__8d1ec, /*channel name in sidebar*/
-.title__9e2b0, /*channel name in chat header*/
-.title-3hptVQ, /*channel name in channel topic popup*/
-.bd-author, .bd-meta .bd-link, /*BD: plugin/theme author*/
-.timestamp_cdbd93 /*chat message hover timestamp (counts as a header)*/ {
-	font-family: var(--dplus-font-header), 'Righteous', var(--dplus-font-header-ja), 'RocknRoll One', var(--dplus-font-header-ko), 'Black Han Sans', var(--dplus-font-header-ru), 'Russo One', var(--dplus-font-header-hi), 'Palanquin Dark', var(--dplus-font-header-th), 'Mitr', var(--dplus-font-header-el), 'Alegreya Sans', 'Lalezar', 'Century Gothic', 'Franklin Gothic Medium', 'Britannic', 'Helvetica Neue', 'Helvetica', 'Whitney', sans-serif !important;
-}
 		
 		/*--- 5 Load/Disconnect + Crash ---*/
 		
