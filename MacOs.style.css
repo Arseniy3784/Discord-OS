@@ -73,41 +73,7 @@
 @import url(https://fonts.googleapis.com/css2?family=Kosugi&family=RocknRoll+One&family=Gothic+A1&family=Black+Han+Sans&family=PT+Sans+Caption&family=Russo+One&family=Palanquin+Dark&family=Raleway:wght@500&family=Commissioner&family=Alegreya+Sans:wght@700&family=Mitr&family=Lalezar&display=swap);
 		
 		/*--- 2 Default Values ---*/
-.theme-dark  {
-	--dplus-backdrop: url(https://cdn.discordapp.com/attachments/974242241700831242/1199397285470150696/ezgif.com-video-to-gif-converter.gif?ex=65e74ec4&is=65d4d9c4&hm=7bbf0129c218eb4ac26b8b5c10e2b58b7b34fc335808c69c42a3748dc59b1785&);
-	
-	--dplus-accent-color-hue: 130;
-	--dplus-accent-color-saturation: 10%;
-	--dplus-accent-color-lightness: 11%;
-	
-	--dplus-foreground-color-hue-base: 20;
-	--dplus-foreground-color-hue-links: 97;
-	--dplus-foreground-color-saturation-amount: 1;
-	--dplus-foreground-color-lightness-amount: 0;
-	
-	--dplus-background-color-hue: 30;
-	--dplus-background-color-saturation-amount: 11;
-	--dplus-background-color-lightness-amount: 11;
-	--dplus-background-color-alpha: 0.5;
-}
 
-.theme-light {
-	--dplus-backdrop: url(https://cdn.discordapp.com/attachments/974242241700831242/1199397285470150696/ezgif.com-video-to-gif-converter.gif?ex=65e74ec4&is=65d4d9c4&hm=7bbf0129c218eb4ac26b8b5c10e2b58b7b34fc335808c69c42a3748dc59b1785&);
-
-	--dplus-accent-color-hue: 130;
-	--dplus-accent-color-saturation: 10%;
-	--dplus-accent-color-lightness: 11%;
-	
-	--dplus-foreground-color-hue-base: 20;
-	--dplus-foreground-color-hue-links: 97;
-	--dplus-foreground-color-saturation-amount: 1;
-	--dplus-foreground-color-lightness-amount: 0;
-	
-	--dplus-background-color-hue: 30;
-	--dplus-background-color-saturation-amount: 11;
-	--dplus-background-color-lightness-amount: 11;
-	--dplus-background-color-alpha: 0.5;
-}
 
 
 .theme-dark {
