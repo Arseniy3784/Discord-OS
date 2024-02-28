@@ -48,3 +48,13 @@
 #app-mount .avatarWrapper_ba5175:hover {
   background: rgba(0, 0, 0, .02);
 }
+.tutorialContainer__890ea > .listItem_fa7b36
+{
+  width: 40px;
+  height: 193px
+}
+.tutorialContainer__890ea {
+  height: 220px;
+  width: 40px;
+  transform: translate(-75px, -75px)
+}
