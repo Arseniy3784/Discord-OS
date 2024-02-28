@@ -385,3 +385,13 @@ body #app-mount [class*=listItemTooltip] [class*=tooltipPointer] {
   top: unset !important;
   bottom: -10px !important;
 } 
+.scroller__3d071>[aria-label]{grid-area:Servers;overflow:scroll}
+.scroller__3d071>[aria-label]:not([class])::-webkit-scrollbar{display:none; .content__4bf10 .applicationStore_fc7d76 .scroller__244e5 .container__74da1 {
+  display: none
+}
+
+
+    
+.scroller__3d071 .none__51a8f .scrollerBase_dc3aa9{
+     left: 2110px
+    
