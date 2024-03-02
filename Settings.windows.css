@@ -1,7 +1,7 @@
-﻿:root {
-	--settingsmodalbackground: #000;
-	--settingsmodalwidth: 960px;
-	--settingsmodalheight: 80vh;
+:root {
+	--settingsmodalbackground: #0000;
+	--settingsmodalwidth: 1000px;
+	--settingsmodalheight: 90vh;
 }
 
 #app-mount .baseLayer__8fda3 {
