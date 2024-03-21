@@ -1,18 +1,17 @@
-﻿
 /* 💬 Group chat */
 .errorStateIcon__7edd8 {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198298302882517052/weapons.png?ex=65f5c442&is=65e34f42&hm=4eb87f397c57a26518783a6296fb0d445bb2e6af93e3dc26b555ea75fe17b47f&") !important;
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198298302882517052/weapons.png?ex=66083942&is=65f5c442&hm=aafa116ef681fec92489842a817808eb64cdf3ac4b1d807250ee1f096943bc76&") !important;
 }
 
 /* 🔴 Streamer Mode */
 [src="/assets/8bc13200408a99819215.svg"] {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198301671458086912/streamer_mode.png?ex=65f5c765&is=65e35265&hm=08c1eb5fddfcbcc2fd9cb46f609d6b68e8a5e25897369e66e70407f452e6e79f&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198301671458086912/streamer_mode.png?ex=66083c65&is=65f5c765&hm=743743ac398f488a9be86b7d49defd0fbf6dbe6067acf5f1a1efe5b6dfae73a8&");
 }
 
 /* 🗝️ Treasure Chest */
 [src="/assets/13a8bb57a95635a785ae.svg"],
 [src="/assets/d6779172ed9209b5ad49df923ea7820c.svg"] {
-  content: url("https://cdn.discordapp.com/attachments/974242241700831242/1198304084218892339/treasure_chest.png?ex=65ec8f25&is=65da1a25&hm=0bea4bea365817172c1ad4ae605e861cb4b0e7104ebc3dae009b252128b92859&");
+  content: url("https://cdn.discordapp.com/attachments/974242241700831242/1198304084218892339/treasure_chest.png?ex=66083ea5&is=65f5c9a5&hm=9646c5747034f48ad076bb63ded0434b31d2922d467043f4bd990914ca2b3c1f&");
 
 
     
@@ -24,28 +23,28 @@
 
 /* 🤷‍ GIF picker end */
 :root .endContainer__0c909::after {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198300956778057728/sticker_not_found.png?ex=65f5c6bb&is=65e351bb&hm=62893b7006457c0462535ca15d2a5fa4eae61b0853ebc05f75d59cb68cf1bb1b&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198305516770836630/gif_picker_end.png?ex=66083ffa&is=65f5cafa&hm=e6d321efdc336258b5b5a06f56bc4afb467a148ad4eb6a9679916d659494dc52&");
 }
 
 /* 👥 Groups */
 :root .noFriends_a7f7ca .errorStateIcon__7edd85 {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198305405709864970/groups.png?ex=65f5cae0&is=65e355e0&hm=219b4a95c1f882fddfd54ab27d7206ef6aa5289c246cae6408cfb5833ae8c06f&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198305405709864970/groups.png?ex=66083fe0&is=65f5cae0&hm=3b4b8f0eb215db4ccb6d43d6e00cf6cfb7073eb274f3d36579361eda56585b40&");
 }
 
 /* 🎁 Gift Inventory */
 :root .emptyStateImage__3e0a5,
 :root .emptyWumpus__67af4 {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198305264005283870/gift_inventory.png?ex=65f5cabe&is=65e355be&hm=0dd11a5c2291e1f1e64472715392b0cf64cd10c3c1bad9b30e735db73279ef8f&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198305264005283870/gift_inventory.png?ex=66083fbe&is=65f5cabe&hm=6624aa3b70da2641a803dfabcecddfcbb3f5cf81861ce0c6083e53d47fde93bc&");
 }
 
 /* 🏠 Houses */
 :root .emptyIconGuilds__72704 {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198305099152367768/houses.png?ex=65f5ca97&is=65e35597&hm=2d2f2081d73294a813dcc985d030366c5c88527fe5d7e9712242d6856439da0e&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198305099152367768/houses.png?ex=66083f97&is=65f5ca97&hm=919ac0b468765332a9d35f4357d183b1238852681813d59813c408f396bf29e7&");
 }
 /* 🔑 Key */
 .theme-dark .channelNotice-tO6Tus.guildMFAWarning-3GEzs8,
 .theme-light .channelNotice-tO6Tus.guildMFAWarning-3GEzs8 {
-  background: url("https://cdn.discordapp.com/attachments/974242241700831242/1198304637430792252/key.png?ex=65f5ca28&is=65e35528&hm=8caee42ccf8c9e0823551a40a146ec981516c0691525982cbed33af6e58ee34c&") no-repeat
+  background: url("https://cdn.discordapp.com/attachments/974242241700831242/1198304637430792252/key.png?ex=66083f28&is=65f5ca28&hm=a0e2f7b77f7589633e7f83f06d4ac77edf0e03701b2c41205268b719ac113f21&") no-repeat
     center 20px;
   background-size: 40%;
 }
@@ -53,13 +52,13 @@
 /* ❌ No channel */
 [style*='background-image: url("/assets/dee199baf31d0fc4227d.svg");'],
 [style*='background-image: url("/assets/8f386efbc744b1e32997.svg");'] {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198304476461805588/no_channel.png?ex=65f5ca02&is=65e35502&hm=ad8a8172e1f6753336e1a47ef057a995c4ea843f1ba4e99d275ccf5f3339d39a&") !important;
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198304476461805588/no_channel.png?ex=66083f02&is=65f5ca02&hm=1eff69b4360f43d0ccfdc305507f49a89264a258f750c3cbb811c8c85974dee8&") !important;
 }
 
 /* ⌨️ No keybinds */
 [style*='background-image: url("/assets/12d9bda733d6432d605e8011c22c3e56.svg");'],
 [style*='background-image: url("/assets/8de4b17bb44ad5ef9f21f2f6f16aa8d1.svg");'] {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198304373105766400/no_keybinds.png?ex=65f5c9e9&is=65e354e9&hm=d1ae98f6f6b028e17c15ccbc175b2a35a9a59f853d457d5371b917152d2e7f7a&") !important;
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198304373105766400/no_keybinds.png?ex=66083ee9&is=65f5c9e9&hm=473c0ba4a9050181909bd1bff9b73a52010b9e8c65b8d53ec71aac731338210c&") !important;
 }
 
 /* 🔎 🗣️ No results conversation */
@@ -72,116 +71,116 @@
 /* 🖼️ Pictures */
 [style*='background-image: url("/assets/53e9102a961af6cf7254.svg");'],
 [style*='background-image: url("/assets/db947193d549bd45c3a3.svg");'] {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198299697555701901/pictures.png?ex=65ec8b0f&is=65da160f&hm=fec89ca482e4e9dee0e327c173cc5b16f06f2101c3e46fb4406407593abfd22d&") !important;
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198299697555701901/pictures.png?ex=66083a8f&is=65f5c58f&hm=662e71320eb9bc5e5a5c5ee857e6237f2c861af0fcd590465161c987d4029dd0&") !important;
 }
 
 /* 📜 Scroll */
 [style*='background-image: url("/assets/cf8f9096a9322f2ae0d7.svg");'],
 [style*='background-image: url("/assets/5e3480eff150b1cb323e.svg");'] {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198302854188896377/scroll.png?ex=65f5c87f&is=65e3537f&hm=4ba1e08c9ad5ce3ebd017ea545ba79a74f6b46bc1a64526ae207afcbfb8290c7&") !important;
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198302854188896377/scroll.png?ex=66083d7f&is=65f5c87f&hm=843fabcded370452f7866f7737e4f77a9e990bf9be4daa765c7747c80dbe91d1&") !important;
 }
 
 /* 🔎 Searching */
 .theme-dark .searchIndexBackground__14e66,
 .theme-light .searchIndexBackground__14e66 {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198303028076347492/searching.png?ex=65f5c8a9&is=65e353a9&hm=bd344e7fcc6d14af39a511e2179e7b489c559498aeec23382e81144453aec0a7&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198303028076347492/searching.png?ex=66083da9&is=65f5c8a9&hm=8f55f9b7a5fe3a744ff975887c9a1c0f3798e97a46b1c3f2b9905a764569db05&");
 }
 
 /* 🔥 Server outage */
 .theme-dark .art-_juKdZ,
 .theme-light .art-_juKdZ {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198303152374562967/server_outage.png?ex=65f5c8c6&is=65e353c6&hm=91024930f1231ba1a74797b0d065dcdfdef72360067266f54a02d04c39c2db96&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198303152374562967/server_outage.png?ex=66083dc6&is=65f5c8c6&hm=a53f7d75537e6a5f437731ba8cc86eb8eb8cf6ea08e183aef3c30ac41167e2c6&");
 }
 
 /* 🟢 Spotify error */
 :root .artworkSpotifySessionEnded__8272a {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198303281659793438/spotify_error.png?ex=65f5c8e5&is=65e353e5&hm=da679e1d67f8184b1d81544919e8033c3c24ef8cfd8405275c148499e7950a0f&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198303281659793438/spotify_error.png?ex=66083de5&is=65f5c8e5&hm=15b359fe617dede8138d9267724380a588482ecb1c9c086b3917ef48220b04a5&");
 }
 
 /* ↔️ Switch */
 .theme-dark .channelNotice-tO6Tus.quickswitcher-35bYg4,
 .theme-light .channelNotice-tO6Tus.quickswitcher-35bYg4 {
-  background: url("https://cdn.discordapp.com/attachments/974242241700831242/1198303396843761856/switch.png?ex=65f5c901&is=65e35401&hm=3cb4764ea947dcd5ba65ed2bd62435393568992714902f09337d099e29b95ede&")
+  background: url("https://cdn.discordapp.com/attachments/974242241700831242/1198303396843761856/switch.png?ex=66083e01&is=65f5c901&hm=c3fed2094f4f490a613eafe9d32a779f85fc82489e7234a213d5b65bc7e87b76&")
     no-repeat center 20px;
 }
 
 /* 📹 Test Video */
 :root .previewImage__91c1c {
-  content: url("https://cdn.discordapp.com/attachments/974242241700831242/1198303623176781894/test_video.png?ex=65f5c937&is=65e35437&hm=d7e24172527f474e1ae5d3648561ad679dbad4de7a5695a3e9982673a01306b2&");
+  content: url("https://cdn.discordapp.com/attachments/974242241700831242/1198303623176781894/test_video.png?ex=66083e37&is=65f5c937&hm=0856c164836ad28578c73b6a920a568110874c3086b63b6b7c57d6f633e9d374&");
 }
 
 /* 🎁 Unclaimed */
 .theme-dark .imageUnclaimed-5nJyYs,
 .theme-light .imageUnclaimed-5nJyYs {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198298691375739050/unclaimed.png?ex=65be659f&is=65abf09f&hm=3354cec45fbb2915da724a7ac255a1c6bce9d0c38bbc705d029de8eaa43703d2&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198298691375739050/unclaimed.png?ex=6608399f&is=65f5c49f&hm=37496c3a3f30fec96634dced38a154290a2c4e1620db2c90d69f147c4f07d08b&");
 }
 
 /* ✨ Integrations */
 :root .footerImage__21e33 {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198304789075861514/integrations.png?ex=65f5ca4d&is=65e3554d&hm=e97d25652716ae49b0434cc698796826a078a43decfd91620f7421a9979bd461&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198304789075861514/integrations.png?ex=66083f4d&is=65f5ca4d&hm=8a9214560af08cbc18d86d448404d6d6a3bdd2e47f0e0d8761532d16d16279d0&");
 }
 
 [src="/assets/d89511b11686ab5c942b3ef900e3d0eb.svg"],
 [src="/assets/552bbc1a21ccdc1778e72f30154593ef.svg"] {
-  content: url("https://cdn.discordapp.com/attachments/974242241700831242/1198304789075861514/integrations.png?ex=65f5ca4d&is=65e3554d&hm=e97d25652716ae49b0434cc698796826a078a43decfd91620f7421a9979bd461&");
+  content: url("https://cdn.discordapp.com/attachments/974242241700831242/1198298302882517052/weapons.png?ex=66083942&is=65f5c442&hm=aafa116ef681fec92489842a817808eb64cdf3ac4b1d807250ee1f096943bc76&");
 }
 
 
 /* 🔎 No results search bar*/
 :root .noResultsImage__08760 {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198302540605964318/no_results.png?ex=65f5c835&is=65e35335&hm=395e86ff189e4319988b2e65acb1212ac3b351a221c6077252d2f21292f74f9d&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198302540605964318/no_results.png?ex=66083d35&is=65f5c835&hm=ef4402addf41ce7acd84e44b7584f83c8d2d6c18fee12d5dda0568db83818e42&");
 }
 
 /* 🙁 No Mutuals */
 :root .emptyIconFriends__8e334 {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198302135457161236/no_mutuals.png?ex=65be68d4&is=65abf3d4&hm=66c65847bf3213162e76f7b089d489b888711b3d762569cc2d39ac009035c1ed&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198302135457161236/no_mutuals.png?ex=66083cd4&is=65f5c7d4&hm=2833716d59d4b53cbced65fe43e83c7387c23253fb89822bf2d7edd0f1881fb1&");
   background-size: 100%;
 }
 
 /* 😃 Emojis */
 [style*='background-image: url("/assets/295da3fc92e2adb1b852.svg");'],
 [style*='background-image: url("/assets/c8be48745cf680093019.svg");'] {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198247664261804144/emojis.png?ex=65f59519&is=65e32019&hm=d348689a1ffa4ab2597afaa46209d9dd1ae80a760dc268ab86b8123bffaa58bb&") !important;
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198247664261804144/emojis.png?ex=66080a19&is=65f59519&hm=d1c378c6578343eb47a10afeecedf6036a2f16c1dd2b31cd7b8a4319c4c673ba&") !important;
 }
 
 
 /* 🤷‍♂️ Sticker not found */
 [style*='background-image: url("/assets/d6e0ab2f94e516718aa7.svg");'] {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198300956778057728/sticker_not_found.png?ex=65be67bb&is=65abf2bb&hm=64bad09b8ad3f662a499476392906028a8eeabd65a09bb2e75f5113e6e7b33aa&") !important;
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198300956778057728/sticker_not_found.png?ex=66083bbb&is=65f5c6bb&hm=1ce746667b05715689ae85bb54241423c082cfd29c08cfbfa05cfbe7404e2248&") !important;
 }
 
 /* 💥 Crash */
 :root .image_dabcb8 {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198180802782048266/crash.png?ex=65f556d4&is=65e2e1d4&hm=562bf7e7ae91547a5c9876fe451ca47c37bea445b384b440490d327dd4b12da5&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198180802782048266/crash.png?ex=6607cbd4&is=65f556d4&hm=88f4ac9096f94e50a1fd02b19512d17b6f4c9254fa91e8937e1cd4597af267c4&");
 }
 
 /* 📱 Phones */
 :root .verificationBlock_c45d0e .image__54a8d.phone__0b460 {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198300474114322462/phones.png?ex=65f5c648&is=65e35148&hm=92984149cc37344952ad8996d0da37e5aa198fda70c4465b1a49e0aa2e290660&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198300474114322462/phones.png?ex=66083b48&is=65f5c648&hm=46054307b50db1711366cad0aa56789c598a8eceae82a04e9216af9f1093aafa&");
 }
 
 /* 🔊 Vocal full */
 .fullArt-KDeDyg {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1213849626642223144/vocal_full.png?ex=65f6f88f&is=65e4838f&hm=2f1754a0833247904c980dbaf96ddbfa558d726683ff13fc1c263a4b39a081ea&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198298852374085742/vocal_full.png?ex=660839c5&is=65f5c4c5&hm=497531ec3e6c0ab5b8986a19506de4e5ffd78d645b33e243cf8ef1f8537b9985&");
   background-size: 100%;
 }
 
 /* 📌 Pinned */
 [style*='background-image: url("/assets/64df6f04b850029d2e78.svg");'],
 [style*='background-image: url("/assets/9e2f412156e2ac1f14e9.svg");'] {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198299818582343720/pinned.png?ex=65f5c5ac&is=65e350ac&hm=8c9596d01c6a5a1847d0dc342b24711173f41123de6a639d0027fc80fff9ee64&") !important;
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198299818582343720/pinned.png?ex=66083aac&is=65f5c5ac&hm=6b86c46d7bced711ec9a99fc1df91c80c81af15e0d08da441a6fc9c7b10ca030&") !important;
 }
 
 /* 💩 Poo */
 :root .imageError__77b3e,
 :root .invalidPoop__03aa3,
 :root .guildIconExpired__1d51f {
-  content: url("https://cdn.discordapp.com/attachments/974242241700831242/1198299057068720138/poop.png?ex=65f5c4f6&is=65e34ff6&hm=f56c7159b0c9a7ecf81b35bdb327f983c95a7652f06510fdb3153fdeb4c6b9f2&");
+  content: url("https://cdn.discordapp.com/attachments/974242241700831242/1198299057068720138/poop.png?ex=660839f6&is=65f5c4f6&hm=0d073c0505a9ed3e842b34cb2fefd600ed9bb771168d9639114085546a5829d0&");
 }
 /* 😊 Friend */
 .theme-dark .channelNotice-tO6Tus.invite-OjTXrW,
 .theme-light .channelNotice-tO6Tus.invite-OjTXrW {
-  background: url("https://cdn.discordapp.com/attachments/974242241700831242/1198248288730746900/friend.png?ex=65f595ae&is=65e320ae&hm=e9c64d328c965bbfd7246e5a17de5306d25b1edc27b3a96e3fea44c2c5277ce2&")
+  background: url("https://cdn.discordapp.com/attachments/974242241700831242/1198248288730746900/friend.png?ex=66080aae&is=65f595ae&hm=0071d4596105b8658f83da693b436471c30f6a82b04d8ef7a3acb4109ecbb096&")
     no-repeat center 20px;
   background-size: 40%
       
@@ -196,7 +195,7 @@
 /* 🗻 Wumpus Mountains */
 [style*='background-image: url("/assets/01864c39871ce619d855.svg");'],
 [style*='background-image: url("/assets/a72746e7108167af95c8.svg");'] {
-  background-image: url("https://media.discordapp.net/attachments/974242241700831242/1179487147724644472/wumpus_mountain.png?ex=65f1ee81&is=65df7981&hm=4b2cf075dd0e1959553de000027f64715329cdb6d66ec4e31ff9575119c83bdf&") !important;
+  background-image: url("https://media.discordapp.net/attachments/974242241700831242/1179487147724644472/wumpus_mountain.png?ex=660d9e01&is=65fb2901&hm=950f135d614a3912cf0f69832e753a2b97515690099a78814982e13cb42445ae&") !important;
 }
 
 /* 💤 Wumpus Sleeping */
@@ -210,7 +209,7 @@
 [style*='background-image: url("/assets/5741692705ba077f4190.svg");'],
 .theme-dark .notFriends__778a1 .errorStateIcon__7edd8,
 .theme-light .notFriends__778a1 .errorStateIcon__7edd8 {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198248506259931146/wumpus_tea_party.png?ex=65f595e2&is=65e320e2&hm=a621caeb5adcb44d3a51fe724f5ab1be2971c54144aba358be240c3e106dfc37&") !important;
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198248506259931146/wumpus_tea_party.png?ex=66080ae2&is=65f595e2&hm=46e357452153f26f2cb1f66b8c198275a087ade2c76d2637fcade85cca104255&") !important;
 }
 
 /* 🛩️ Airplane */
@@ -228,7 +227,7 @@
 /* 🔨 Ban Hammer */
 [style*='background-image: url("/assets/cdc3f4f6fbf3a0f0766f.svg");'],
 [style*='background-image: url("/assets/c65431f185feb7b00749.svg");'] {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1213841635809558568/ban_hammer.png?ex=65f6f11e&is=65e47c1e&hm=b1ac45be10f026e7d968d22d10da0dfbc6f5d732c0330eca59f161c0453d82ab&") !important;
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1213841635809558568/ban_hammer.png?ex=6609661e&is=65f6f11e&hm=f6c3a33bf927dca971db05b7a84a95afe32696118aeb8d28b55ff3b53e4e65c6&") !important;
 }
 
 /* 🚀 Boost */
@@ -246,7 +245,7 @@
 
 /* 🏰 Castle */
 :root .verification__82f71 .image__54a8d {
-  background: url("https://cdn.discordapp.com/attachments/974242241700831242/1213849346148270160/castle.png?ex=65f6f84c&is=65e4834c&hm=9d50fedbdc77f1c21f6937fc06bd5f6af62dd043c13abb941d6751a0107fd1d8&") 50%/80%
+  background: url("https://cdn.discordapp.com/attachments/974242241700831242/1213849346148270160/castle.png?ex=66096d4c&is=65f6f84c&hm=08346818c1201fa07b2680530565a96ed4942722b11bb4e4811a99333d4f2162&") 50%/80%
     no-repeat;
 }
 
@@ -259,29 +258,29 @@
 /* ⚙️ Category settings */
 [src="/assets/1964f50ca0220e98dc32.svg"],
 [src="/assets/387a7c504c96b992872d.svg"] {
-  content: url("https://cdn.discordapp.com/attachments/974242241700831242/1198179784992235550/category_settings.png?ex=65f555e1&is=65e2e0e1&hm=775c04db075af49829594849d91e8ff77886b5ca437fda16efe95b676ff0a04f&");
+  content: url("https://cdn.discordapp.com/attachments/974242241700831242/1198179784992235550/category_settings.png?ex=6607cae1&is=65f555e1&hm=8b2511181d0a68d69eed10cd22b3a461840b8f02d6fb3c2e95f471dacab0f0a3&");
 }
 
 /* 👥 🖼️ Community banner */
 .previewCard-DOrO3c .splashImage-352DQ1 {
-  content: url("https://cdn.discordapp.com/attachments/974242241700831242/1198179946498117712/community_banner.png?ex=65f55608&is=65e2e108&hm=5dd22900cb5c51e6226974f411b60218fe1eb4f6ac7b2f077d493f8ab1e8c607&");
+  content: url("https://cdn.discordapp.com/attachments/974242241700831242/1198179946498117712/community_banner.png?ex=6607cb08&is=65f55608&hm=ac63860aead2daa55530c65402c6eb55e4a64ac7552f788fe0d4d35a68a8b418&");
 }
 
 /* 🖥️ Computer */
 [style*='background-image: url("/assets/c115d59ca13c0f942965a82a0f05bf01.svg");'],
 [style*='background-image: url(/assets/ad530d02033b87bb89752f915c2fbe3c.svg");'] {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198180200144441344/computer.png?ex=65f55644&is=65e2e144&hm=3980a3f35861e6c54183dfc942dbebdbf65729eba215a4aad7b35a73e9de31e6&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198180200144441344/computer.png?ex=6607cb44&is=65f55644&hm=9b9c86f49106f533db0842006c576b539684d8ffd5aa6a3638129f46e6930767&");
 
 /* 🎮 Developer Options */
 [style*='background-image: url("/assets/8debd25fc894741dafd0.svg");'],
 [style*='background-image: url("/assets/a0e249703c7cad81a7c1.svg");'] {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198247402650488914/dev_options.png?ex=65f594db&is=65e31fdb&hm=53d3ec8da883fe69dd8c919d7125728b22157659d9e7e7286164b9210c8d7d2a&") !important;
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198247402650488914/dev_options.png?ex=660809db&is=65f594db&hm=80a05b354ce43ad437044a3e420d6789bc71d08cdeb017e48957308a1ef928cc&") !important;
     }
 
 /* 📭 Empty */
 :root .image__88b66,
 :root .emptyImage__66bed {
-  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198248142320181338/empty.png?ex=65f5958b&is=65e3208b&hm=7943808d26284189d3ca508b0414eb4dcc0a079d39720e5d6cd72cb04fb5e1b7&");
+  background-image: url("https://cdn.discordapp.com/attachments/974242241700831242/1198248142320181338/empty.png?ex=66080a8b&is=65f5958b&hm=d92558ebacc8e316b2844efaab19cbc13fab0dc5883e27ce43e109b48e370c73&");
 }
 
 
